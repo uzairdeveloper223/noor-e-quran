@@ -29,7 +29,7 @@ This project is purely for the sake of **Sadaqah Jariyah** (ongoing charity). Yo
 ## Hosted App
 
 **Live View:**  
-[https://uzairdeveloper223.github.io/noor-e-quran/](https://uzairdev.github.io/noor-e-quran/)
+[https://uzairdeveloper223.github.io/noor-e-quran/](https://uzairdeveloper223.github.io/noor-e-quran/)
 
 ---
 
