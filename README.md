@@ -32,6 +32,13 @@ This project is purely for the sake of **Sadaqah Jariyah** (ongoing charity). Yo
 [https://uzairdeveloper223.github.io/noor-e-quran/](https://uzairdeveloper223.github.io/noor-e-quran/)
 
 ---
+## Download APK
+- [Apk download universal release](https://github.com/uzairdeveloper223/noor-e-quran/releases/download/1.0.0/Noor-e-Quran-Universal.apk)
+---
+## Download Source Code for Sketchware Pro 
+- [Download .swb file](https://github.com/uzairdeveloper223/noor-e-quran/releases/download/1.0.0/Noor-e-Quran.noorequran.bydev.uzair.1.2025-04-19T151443.swb)
+
+---
 
 ## Credits
 
