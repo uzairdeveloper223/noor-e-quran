@@ -44,7 +44,7 @@ This project is purely for the sake of **Sadaqah Jariyah** (ongoing charity). Yo
 
 Developed with love by **UzairDeveloper223**  
 - [GitHub](https://github.com/uzairdeveloper223)
-- [YouTube](https://youtube.com/@mughal_x22)
+- [InstaGram](https://www.instagram.com/mughal_x22/)
 - [Telegram](https://t.me/LEGENDxUZAIR)
 
 ---
